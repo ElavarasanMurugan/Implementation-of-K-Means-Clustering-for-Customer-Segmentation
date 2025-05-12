@@ -97,9 +97,7 @@ plt.legend()
 plt.title("Customer Segments")
 plt.show()
 ```
-```
 
-```
 ## Output:
 
 **Head Values**
